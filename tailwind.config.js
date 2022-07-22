@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        title: ["'Cubano'"],
         body: ["'Inter'"],
       },
     },
