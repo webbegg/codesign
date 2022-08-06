@@ -9,10 +9,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="h-screen flex justify-center items-center bg-gray-800 select-none">
-        <h1 className="tracking-wide font-black leading-none cursor-default flex flex-col text-4xl text-gray-300">
+      <main className="h-screen flex flex-col space-y-4 justify-center items-center bg-black select-none">
+        <h1 className="font-title leading-none tracking-wider cursor-default flex flex-col text-4xl text-gray-300">
           <span>
-            CODE <span className="text-gray-500">&</span>
+            CODE <span className="text-blackish">&</span>
           </span>
           <span>DESIGN</span>
         </h1>

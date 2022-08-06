@@ -6,8 +6,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        blackish: "#5E5E5E",
+        black: "#1E1E1E",
+      },
       fontFamily: {
-        body: ["'Inter'"],
+        title: ["Tanker"],
+        body: ["Erode"],
       },
     },
   },
